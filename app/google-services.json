@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407009932858",
+    "project_id": "test--auth-2b538",
+    "storage_bucket": "test--auth-2b538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407009932858:android:8dca27c40d97f027486703",
+        "android_client_info": {
+          "package_name": "com.example.lab9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSP-v7Tx1qFb83Z1cThNcdL3MDiW00j9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
